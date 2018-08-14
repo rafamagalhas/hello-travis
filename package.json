@@ -1,0 +1,22 @@
+{
+  "name": "hello-travis",
+  "version": "1.0.0",
+  "description": "hello world with travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafamagalhas/hello-travis.git"
+  },
+  "author": "Rafael Magalhães <magalhas.rafa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafamagalhas/hello-travis/issues"
+  },
+  "homepage": "https://github.com/rafamagalhas/hello-travis#readme",
+  "devDependencies": {
+    "jshint": "2.9.6"
+  }
+}
