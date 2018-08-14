@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "babel-node hello.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint hello.js"
   },
   "repository": {
     "type": "git",
