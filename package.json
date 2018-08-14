@@ -4,7 +4,7 @@
   "description": "hello world with travis CI",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node hello.js",
+    "start": "node hello.js",
     "test": "jshint hello.js"
   },
   "repository": {
