@@ -1,4 +1,4 @@
 # hello-travis
 Travis CI Hello World
 
-[![Build Status](https://travis-ci.com/rafamagalhas/hello-travis.svg?branch=master)](https://travis-ci.com/rafamagalhas/hello-travis)
+[![Build Status](https://app.travis-ci.com/rafamagalhas/hello-travis.svg?branch=master)](https://app.travis-ci.com/rafamagalhas/hello-travis)
